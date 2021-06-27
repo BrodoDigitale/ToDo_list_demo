@@ -81,7 +81,7 @@ h1 {
 .todolist-item__copy {
   width: 24px;
   height: 24px;
-  background: url('../images/copy.svg') no-repeat center;
+  background: url('../images/Duplicate.svg') no-repeat center;
   background-size: 24px 24px;
   border: none;
   margin-left: 30px;
@@ -92,7 +92,7 @@ h1 {
 .todolist-item__del {
   width: 24px;
   height: 24px;
-  background: url('../images/del.svg') no-repeat center;
+  background: url('../images/Delete.svg') no-repeat center;
   background-size: 20px 20px;
   border: none;
   margin-left: 30px;
